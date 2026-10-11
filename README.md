@@ -2,12 +2,12 @@
 
 # 👋 Halo, Saya Akhmad Naufal!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0x1e1229&height=180&section=header&text=Welcome%20To%20My%20Profile!&fontSize=35&fontColor=9d4edd&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=130524&height=180&section=header&text=Welcome%20To%20My%20Profile!&fontSize=35&fontColor=c77dff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_ANDA&color=9d4edd&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://github.com/USERNAME_GITHUB_ANDA?tab=followers">
-    <img src="https://img.shields.io/github/followers/USERNAME_GITHUB_ANDA?color=9d4edd&label=Followers&style=flat-square&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=FalyGY-design&color=c77dff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/FalyGY-design?tab=followers">
+    <img src="https://img.shields.io/github/followers/FalyGY-design?color=c77dff&label=Followers&style=flat-square&logo=github" alt="Followers" />
   </a>
 </p>
 
@@ -28,9 +28,9 @@
 
 | Kategori | Teknologi |
 | :---: | :---: |
-| **Bahasa & Frontend** | `HTML5`, `CSS3`, `JavaScript`, `TypeScript`, `React.js` |
-| **Backend & Database** | `Node.js`, `Express`, `Python`, `PostgreSQL`, `MongoDB` |
-| **Tools & Lainnya** | `Git`, `GitHub`, `Docker`, `VS Code`, `Figma` |
+| **Bahasa & Frontend** | `<span style="color:#4cc9f0">HTML5</span>`, `<span style="color:#f72585">CSS3</span>`, `<span style="color:#7209b7">JavaScript</span>`, `<span style="color:#3a0ca3">TypeScript</span>`, `<span style="color:#4361ee">React.js</span>` |
+| **Backend & Database** | `<span style="color:#4cc9f0">Node.js</span>`, `<span style="color:#f72585">Express</span>`, `<span style="color:#7209b7">Python</span>`, `<span style="color:#3a0ca3">PostgreSQL</span>`, `<span style="color:#4361ee">MongoDB</span>` |
+| **Tools & Lainnya** | `<span style="color:#4cc9f0">Git</span>`, `<span style="color:#f72585">GitHub</span>`, `<span style="color:#7209b7">Docker</span>`, `<span style="color:#3a0ca3">VS Code</span>`, `<span style="color:#4361ee">Figma</span>` |
 
 </div>
 
@@ -44,18 +44,18 @@
 
 <div align="center">
   
-  <!-- GitHub Stats (Tema Ungu Gelap Kustom) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=130b1b&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd" alt="GitHub Stats" width="48%" />
+  <!-- GitHub Stats (Tema Ungu Gelap & Neon) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=FalyGY-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=130524&title_color=f72585&text_color=e0aaff&icon_color=4cc9f0" alt="GitHub Stats" width="48%" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=tokyonight&hide_border=true&bg_color=130b1b&title_color=c77dff&text_color=e0aaff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalyGY-design&layout=compact&theme=tokyonight&hide_border=true&bg_color=130524&title_color=f72585&text_color=e0aaff" alt="Top Languages" width="48%" />
 
 </div>
 
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&theme=tokyonight&hide_border=true&background=130b1b&stroke=9d4edd&ring=9d4edd&fire=c77dff&sideLabels=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalyGY-design&theme=tokyonight&hide_border=true&background=130524&stroke=7209b7&ring=f72585&fire=4cc9f0&sideLabels=true" alt="GitHub Streak" width="100%" />
 
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/USERNAME_ANDA" target="_blank">
+<a href="https://linkedin.com/in/akhmad-naufal" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/USERNAME_ANDA" target="_blank">
@@ -80,5 +80,5 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0x1e1229&height=100&section=footer&fontSize=15&fontColor=9d4edd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=130524&height=100&section=footer&fontSize=15&fontColor=c77dff" width="100%"/>
 </div>

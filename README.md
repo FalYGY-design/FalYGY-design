@@ -17,7 +17,7 @@
 
 ### 🚀 Tentang Saya
 - 💻 **Fokus Utama:** Full-Stack Developer & Tech Enthusiast
-- ⚡ **Hobi:** Game, eksplorasi teknologi baru, dan merancang sistem yang efisien.
+- ⚡ **Hobi:** Gaming, eksplorasi teknologi baru, dan merancang sistem yang efisien.
 - 📫 **Cara Menghubungi:** [email@domain.com](mailto:email@domain.com)
 
 ---
